@@ -499,7 +499,6 @@ local function MPHSAXF_fake_script() -- LightTheme.LocalScript
 		Commands:NewLabel(":logs — prints all used cmds")
 	
 	
-		CreditsSection:NewLabel("Scripts Made By: Zepsyy#2173")
 		CreditsSection:NewLabel("UI Library: Kavo UI Library")
 		CreditsSection:NewLabel("UI Library Made by: xHeptc")
 	
