@@ -1,7 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowStorm1218/Kavo_GUI/main/Kavo_UI.lua"))()
 local Window = Library.CreateLib("Vertex", "GrapeTheme")
 
-if game.PlaceId == 13822889 then
 --Player
 local Player = Window:NewTab("Player")
 local PlayerSection = Player:NewSection("Player Funtions")
